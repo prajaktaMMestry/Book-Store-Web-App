@@ -90,7 +90,7 @@ $ ng serve
 
 ### Authors
 
-* [Zhelyan Radoev](https://github.com/jeliozver)
+* [prajakta Mestry](https://github.com/prajaktaMMestry)
 
 ### License
 ----
